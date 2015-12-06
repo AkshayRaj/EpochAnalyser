@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">EpochAnalyser</string>
+    <string name="start">START</string>
+    <string name="finish">FINISH</string>
+    <string name="duration">DURATION</string>
+    <string name="empty">todo</string>
 </resources>
