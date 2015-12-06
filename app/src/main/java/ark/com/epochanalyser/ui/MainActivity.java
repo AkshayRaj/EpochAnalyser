@@ -8,7 +8,7 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import ark.com.epochanalyser.R;
-import ark.com.epochanalyser.utils.Analyser;
+import ark.com.epochanalyser.analyser.Analyser;
 
 public class MainActivity extends Activity{
     private Context mContext;

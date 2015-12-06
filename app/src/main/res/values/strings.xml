@@ -4,4 +4,5 @@
     <string name="finish">FINISH</string>
     <string name="duration">DURATION</string>
     <string name="empty">todo</string>
+    <string name="textforstart"></string>
 </resources>
